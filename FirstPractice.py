@@ -44,11 +44,3 @@ def is_reserved_keyword(word):
 print(is_reserved_keyword("class"))
 
 print('\U0001F913')
-
-multiline_string = """This is a
-multiline string
-in Python."""
-
-multiline_string2 = '''This is another
-multiline string
-with single quotes.'''
